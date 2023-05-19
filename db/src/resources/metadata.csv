@@ -1,0 +1,3 @@
+b,Name,java.lang.String,FALSE,IDNameAgeIndex,Octree,A,zzzzzzzzzzzzzzz
+b,ID,java.lang.Integer,TRUE,IDNameAgeIndex,Octree,1,50000
+b,Age,java.lang.Integer,FALSE,IDNameAgeIndex,Octree,21,60
